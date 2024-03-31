@@ -33,6 +33,13 @@
  </a>
 
 
+<h2 align="center">
+About me
+</h2>
+Hi! I'm David Ban, a fourth year Computer Science student at UC Berkeley. I enjoy working in new environments, and thrive under pressure. In my free time, I like to learn new hobbies which include (but not limited to): historical fencing, chinese noodle pulling, baking, music, and acting.
+
+
+
 </p>
 <br />
 
